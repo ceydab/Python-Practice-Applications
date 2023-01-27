@@ -12,7 +12,7 @@ con = psycopg2.connect(
     database = "postgres",
     port = "5432",
     user = "postgres",
-    password = "1536"
+    password = ""
 )
 con.autocommit = True
 cur = con.cursor()
