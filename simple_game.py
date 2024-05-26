@@ -1,3 +1,8 @@
+'''this project creates a simple game structure of guessing the number that the opponent 
+has in mind. the game gives 5 lives to the guesser, and takes the life value 1 value 
+down while calculating how many guesses it takes the guesser to find the number.
+'''
+
 import random
 number = random.randint(1, 50)
 lives = 5
