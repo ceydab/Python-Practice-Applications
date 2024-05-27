@@ -1,4 +1,6 @@
-
+'''
+this project is a simple application of money depositing and withdrawing operations from a bank given two customers.
+'''
 account1 = {
     'name' : 'Cyrile',
     'accountno' : '1234',
