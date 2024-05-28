@@ -1,4 +1,6 @@
-#question
+'''this project creates a quiz algorithm. at first a question class is created for each question. then a quiz class is created
+that displays a question, gets an answer, and finally, records and shows the score.
+'''
 
 class Question:
     def __init__(self, text, choice, answer):
