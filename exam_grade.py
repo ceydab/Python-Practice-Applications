@@ -1,4 +1,8 @@
-
+'''this project creates an algorithm to calculate final grade. the algorithm starts with a function to obtain the grades from .txt file.
+each line (representing each student) is passed through calculateGrade() function that calculates the average grade and letter grade
+for each student. entergrade() function allows the user to enter these grades into .txt file, savegrade allows saving the freshly entered
+grades. finally a while loops asks the user what s/he wants to do, and chooses the action (function) to take.
+'''
 def getAverage():
     with open("exam_grades.txt", "r") as file:
         for line in file:
