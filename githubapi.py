@@ -1,3 +1,8 @@
+'''
+this project is an example of api utilization. the project accesses github api and obtains user or 
+repository information.
+'''
+
 import requests
 
 
