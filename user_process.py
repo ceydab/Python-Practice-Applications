@@ -1,3 +1,9 @@
+'''this project is an example of user creation and login logout processes. 
+the project creates a class User to obtain user information and uses 
+class UserRepository to store user data and registration&login information.
+In the end, it runs a loop to ask the user what s/he would like to do.
+'''
+
 import json
 import os
 
