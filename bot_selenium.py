@@ -1,3 +1,8 @@
+'''
+this project is a short example of how to use selenium to enter a website and
+obtain and send information.
+'''
+
 from selenium import webdriver
 import time
 
