@@ -1,3 +1,7 @@
+'''this short project introduces beautifulsoup module and shows
+how to use it to obtain information about a given url
+'''
+
 from bs4 import BeautifulSoup
 from bs4.dammit import html_meta
 import requests
