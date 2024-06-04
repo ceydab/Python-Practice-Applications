@@ -1,3 +1,9 @@
+'''this project creates a database for school usage. after connecting to mysql, it creates 4 menus regarding students,
+teachers, classes, and lessons respectively. Each menu contains 5 options: display, insert, update, delete, exit. 
+once the database is created, functions are defined for each option.
+'''
+
+
 import mysql.connector
 import passwordsql from logins
 
