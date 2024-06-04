@@ -1,4 +1,8 @@
-#twitter user activities
+'''this project uses selenium to log into twitter, search for the desired words, scroll down the page,
+and obtain the tweets listed with the search query
+'''
+
+
 import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
