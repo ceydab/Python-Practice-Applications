@@ -12,7 +12,7 @@ Welcome to Python Practice repository! This repository contains a collection of 
 8. **Movies_bs4**: Uses web scraping with beautifulsoup to extract movie information.
 9. **Bot_selenium**: Uses selenium to create a bot.
 10. **Twitterbot_selenium**: Uses selenium to log into twitter and obtain data.
-11. **Student_database**: Creates a database on mysql, with the option to display, insert, update, delete from the database.
+11. **School_database**: Creates a database on mysql, with the option to display, insert, update, delete from the database.
 
 Each project is contained within its own .py file, along with the explanations of the code.
 
